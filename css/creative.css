@@ -33,6 +33,11 @@ a {
 a:hover {
   color: #f05f40;
 }
+p {
+
+  }.text-bold{
+    font-weight: 900;
+  }
 
 h1,
 h2,
@@ -53,6 +58,9 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+}
+.text-bold {
+  font-weight: 900;
 }
 
 section {
